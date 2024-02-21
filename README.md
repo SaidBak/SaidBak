@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaidBak
 - 👀 I’m interested in Graphic Design and Web Development.
-- 🌱 I’m currently refreshing my JavaScript knowledge at @TheOdinProject
+- 🌱 I’m currently refreshing my JavaScript knowledge at [@TheOdinProject](https://www.theodinproject.com/)
 - 📫 said.bak@protonmail.com
 
 <!---
